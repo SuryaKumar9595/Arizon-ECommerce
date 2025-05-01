@@ -62,17 +62,23 @@ npm start
 src/
 │
 ├── components/
-│   ├── ProductCard/
-│   │   └── index.jsx         # Displays individual product card
-│   └── ProductListingPage/
-│       └── index.jsx         # Fetches and displays list of products
-│
+│   ├── HomePage/
+│   │   └── index.jsx
+│   ├── ProductListingPage/
+│   │   └── index.jsx
+│   ├── ProductCard.jsx
+│   ├── MiniCart/
+│   │   └── index.jsx
+│   ├── FullCartPage/
+│   │   └── index.jsx
+|   
 ├── context/
-│   └── CartContext.js        # Context and reducer for managing cart state
+│   └── CartContext.jsx
 │
-├── App.js                    # Main application component
-├── index.js                  # Entry point of the application
-└── tailwind.config.js         # Tailwind CSS configuration
+├── App.js
+├── index.js
+└── main.css
+
 ```
 
 # Running Locally
