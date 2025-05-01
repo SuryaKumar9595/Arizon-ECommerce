@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Arizon E-Commerce Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive and fully functional e-commerce frontend application built with React.js, Tailwind CSS, and Context API for cart management. It integrates with a public API to fetch product data and allows users to add items to their cart.
 
 ## Available Scripts
 
