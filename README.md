@@ -21,5 +21,23 @@ Follow the steps below to set up and run the project locally:
 
 ```bash
 git clone https://github.com/your-username/arizon-ecommerce.git
+```
 
+### 2. Install Dependencies
 
+Navigate to the project folder and install the required dependencies:
+
+```bash
+cd arizon-ecommerce
+npm install
+```
+
+### 3. Run the Development Server
+
+Start the React development server:
+
+```bash
+npm start
+```
+##Open your browser and go to [Link Text](http://localhost:3000))
+ to view the app.
