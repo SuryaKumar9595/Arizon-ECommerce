@@ -23,4 +23,3 @@ Follow the steps below to set up and run the project locally:
 git clone https://github.com/your-username/arizon-ecommerce.git
 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
