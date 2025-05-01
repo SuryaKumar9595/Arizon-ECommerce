@@ -4,7 +4,7 @@ A responsive and fully functional e-commerce frontend application built with Rea
 
 ## Table of Contents
 
--[Project Setup](#project setup)
+- [Project Setup](#project setup)
 
 ### `npm start`
 
