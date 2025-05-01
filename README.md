@@ -41,3 +41,7 @@ npm start
 ```
 ##Open your browser and go to [Link](http://localhost:3000))
  to view the app.
+
+ #Features
+
+ - Product Listing Page: Displays products fetched from the [FakeAPI](#fakeapi) in a responsive grid layout.
