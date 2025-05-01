@@ -1,6 +1,7 @@
 import React from "react";
 import { useCart } from "../../context/CartContext";
 import { Link } from "react-router-dom";
+import Layout from "./components/Layout";
 
 function FullCartPage() {
   const { state, dispatch } = useCart();
@@ -20,6 +21,7 @@ function FullCartPage() {
   );
 
   return (
+    <Layout>
     <div className="p-6 max-w-5xl mx-auto">
       <h2 className="text-2xl font-bold mb-6">Shopping Cart</h2>
 
@@ -90,6 +92,7 @@ function FullCartPage() {
         </div>
       )}
     </div>
+    </Layout>
   );
 }
 
