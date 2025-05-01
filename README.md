@@ -39,7 +39,7 @@ Start the React development server:
 ```bash
 npm start
 ```
-## Open your browser and go to [Link](http://localhost:3000))
+## Open your browser and go to [Link]([http://localhost:3000](http://arizon-e-commerce-theta.vercel.app)))
  to view the app.
 
  # Features
